@@ -1,0 +1,21 @@
+parsing date time format is m.d.y
+depth in get-childitem is select internal folders
+hash table has remove property to remove value
+hash table can have case senstive key  
+rename can used to rename computer name using wmi object
+out-printer to print directly 
+replace will replace terms mentioned 
+validate set can be used to add properties to a function
+validate pattern can be used to validate pattern using regx
+system.io.path is the .net function to change file extensions 
+net.webclient and microsoft.visualbasics.devices.networks can be used to download content from internet and start-bitstransfer
+microsoft.win32.registry class can be access registries remotely
+invoke-webrequest to download
+loading a xml file is case sensitive
+new-psdrive can add personal drive and its scoope can be setted to global using scope parameter 
+out-grid view is the command that is used to show out put in window and it is used after giving pipeline 
+show-window is used to show help content in window
+% is alias for foreachloop
+? is alias for where 
+& is alias for invoke command
+measure object is used measure the command basing on a particular property and it can calculate sum,average,minimum and maximum values
